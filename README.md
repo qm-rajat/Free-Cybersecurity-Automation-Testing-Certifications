@@ -1,172 +1,210 @@
-<!-- ========================================================= -->
-<!-- ===================== PROJECT BANNER ==================== -->
-<!-- ========================================================= -->
+<!-- ================================================= -->
+<!-- =============== CYBERPUNK HEADER =============== -->
+<!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Free%20Cybersecurity%20%26%20Automation%20Certifications&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=CYBERSECURITY%20%7C%20AUTOMATION%20ARSENAL&fontColor=00ffff&fontSize=40&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cost-Free-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20Testing-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Updated-2026-important?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=700&lines=Free+Cybersecurity+Certifications;Free+Automation+Testing+Certifications;Zero+Cost+%7C+High+Impact+%7C+Career+Ready;Build.+Certify.+Dominate." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cost-100%25%20FREE-00ffff?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Automation%20Testing-00ff99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Pro-ffaa00?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🛡️ Free Cybersecurity & Automation Testing Certifications
+# 🧠 THE FREE CERTIFICATION ARSENAL
 
-A curated and verified list of **genuinely free certifications and certificate-based courses** for:
-
-- 🔐 Cybersecurity
-- 🤖 Automation Testing
-
-Designed for:
-- Students
-- Self-learners
-- Career switchers
-- Entry-level IT aspirants
-- QA Engineers
-- SOC Analyst aspirants
+> A curated, verified, zero-cost certification roadmap for:
+> - 🔐 SOC Analysts  
+> - 🛡️ Cybersecurity Engineers  
+> - 🤖 Automation Test Engineers  
+> - 🚀 SDET Aspirants  
 
 ---
 
-# 📌 Table of Contents
+# 🔐 CYBERSECURITY CERTIFICATIONS
 
-- [Cybersecurity Certifications](#-cybersecurity-certifications-free)
-- [Automation Testing Certifications](#-automation-testing-certifications-free)
-- [Learning Roadmap](#-learning-roadmap)
-- [How This Helps Your Resume](#-how-this-helps-your-resume)
-- [Repository Structure](#-repository-structure)
-- [Contribution](#-contribution)
-
----
-
-# 🔐 Cybersecurity Certifications (Free)
-
-| Certification | Provider | Level | Certificate | Official Link |
-|--------------|----------|--------|------------|---------------|
-| Certified in Cybersecurity (CC) | ISC2 | Beginner | ✅ Yes | https://www.isc2.org/Certifications/CC |
-| Introduction to Cybersecurity | Cisco Networking Academy | Beginner | ✅ Badge | https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity |
-| Cybersecurity Essentials | Cisco Networking Academy | Beginner | ✅ Badge | https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials |
-| Cybersecurity Analyst | IBM SkillsBuild | Beginner | ✅ Yes | https://skillsbuild.org/students/course-catalog/cybersecurity |
-| Splunk Fundamentals 1 | Splunk | Beginner | ✅ Yes | https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html |
-| Google Cybersecurity Certificate | Google via Coursera | Beginner | ⚠ Audit Free | https://www.coursera.org/professional-certificates/google-cybersecurity |
-| Free Learning Paths | TryHackMe | Beginner | ⚠ Limited | https://tryhackme.com |
-| Free Security Courses | Cybrary | Beginner | ⚠ Some Free | https://www.cybrary.it |
-| Software & Security Certification | Sanfoundry | Beginner | ✅ Yes | https://www.sanfoundry.com |
+## 🥇 ISC2 – Certified in Cybersecurity (CC)
+🌐 https://www.isc2.org/Certifications/CC  
+✔ Entry-Level Global Certification  
+✔ Vendor-Neutral  
+✔ Recognized Worldwide  
 
 ---
 
-# 🤖 Automation Testing Certifications (Free)
+## 🌐 Cisco Networking Academy
+- Introduction to Cybersecurity  
+- Cybersecurity Essentials  
 
-| Certification | Provider | Level | Certificate | Official Link |
-|--------------|----------|--------|------------|---------------|
-| Selenium Basics | Great Learning | Beginner | ✅ Yes | https://www.mygreatlearning.com/academy/learn-for-free/courses/selenium-basics |
-| Introduction to Automation Testing | Great Learning | Beginner | ✅ Yes | https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-automation-testing |
-| Selenium 101 | LambdaTest TestMu | Beginner | ✅ Yes | https://www.testmu.ai |
-| Cypress 101 | LambdaTest TestMu | Beginner | ✅ Yes | https://www.testmu.ai |
-| Playwright Certification | LambdaTest TestMu | Beginner | ✅ Yes | https://www.testmu.ai |
-| Software Testing Certification | Sanfoundry | Beginner | ✅ Yes | https://www.sanfoundry.com/certification/software-testing-certification |
-| Test Automation Foundations | LinkedIn Learning | Beginner | ⚠ Limited Free | https://www.linkedin.com/learning |
+🔗 https://www.netacad.com  
+
+✔ Digital Badges  
+✔ Strong Networking Foundation  
 
 ---
 
-# 📊 Learning Roadmap
+## 🧩 IBM SkillsBuild – Cybersecurity Analyst
+🔗 https://skillsbuild.org  
+
+✔ SOC Fundamentals  
+✔ Threat Intelligence  
+✔ Beginner Friendly  
+
+---
+
+## 📊 Splunk Fundamentals 1
+🔗 https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html  
+
+✔ SIEM Basics  
+✔ Log Monitoring  
+✔ SOC-Oriented  
+
+---
+
+## 🧪 TryHackMe
+🔗 https://tryhackme.com  
+
+✔ Hands-on Labs  
+✔ Red & Blue Team Exposure  
+
+---
+
+# 🤖 AUTOMATION TESTING CERTIFICATIONS
+
+## 🧪 Selenium Basics – Great Learning
+🔗 https://www.mygreatlearning.com/academy/learn-for-free/courses/selenium-basics  
+
+✔ WebDriver  
+✔ Automation Fundamentals  
+
+---
+
+## ⚡ Cypress / Playwright – TestMu
+🔗 https://www.testmu.ai  
+
+✔ Modern Automation Tools  
+✔ Free Certificates  
+
+---
+
+## 🧱 Automation Testing Intro
+🔗 https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-automation-testing  
+
+✔ QA Fundamentals  
+✔ Automation Lifecycle  
+
+---
+
+# 📊 CYBER ROADMAP
 
 ```mermaid
-flowchart TD
+flowchart LR
 
-A[Start Here] --> B[Networking Basics]
-B --> C[Cisco Intro to Cybersecurity]
-C --> D[ISC2 Certified in Cybersecurity]
-D --> E[IBM SkillsBuild]
-E --> F[Splunk Fundamentals]
+A[Networking Basics] --> B[Cisco Cybersecurity]
+B --> C[ISC2 CC]
+C --> D[IBM SkillsBuild]
+D --> E[Splunk Fundamentals]
+E --> F[Apply for SOC Role]
 
-A --> G[QA Basics]
-G --> H[Automation Testing Intro]
-H --> I[Selenium Basics]
-I --> J[Cypress / Playwright]
-J --> K[Build Automation Framework Project]
+G[Manual Testing] --> H[Automation Intro]
+H --> I[Selenium]
+I --> J[Cypress/Playwright]
+J --> K[Build Framework Project]
+K --> L[Apply for QA/SDET Role]
 ```
 
 ---
 
-# 🏆 How This Helps Your Resume
+# ⚡ SKILL PROGRESSION MATRIX
 
-## 🔐 Cybersecurity Roles
-- SOC Analyst (Tier 1)
-- Junior Security Analyst
-- IT Support with Security Focus
-- Blue Team Intern
+Cybersecurity:
+██████████░░ 80%
 
-## 🤖 Automation / QA Roles
-- QA Engineer (Fresher)
-- Automation Test Engineer
-- SDET (Entry-Level)
-- Manual + Automation Tester
+Automation:
+████████░░░░ 65%
 
 ---
 
-# 📂 Repository Structure
+# 🏆 RECRUITER VISIBILITY BOOST
 
-Recommended project structure:
+Add these to your resume:
+
+✔ ISC2 CC  
+✔ Cisco Cybersecurity Badge  
+✔ Splunk Fundamentals  
+✔ Selenium Automation  
+
+Mention tools:
+- SIEM
+- Linux
+- Selenium WebDriver
+- Cypress
+- Playwright
+- Git
+- CI/CD Basics
+
+---
+
+# 📈 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 📂 ADVANCED REPOSITORY STRUCTURE
 
 ```
-free-certifications/
+cyber-automation-arsenal/
 │
 ├── README.md
 ├── assets/
-│   ├── banner.png
-│   └── roadmap.png
+│   ├── cyber-banner.png
+│   ├── roadmap.png
 │
 ├── cybersecurity/
-│   ├── beginner.md
-│   ├── intermediate.md
-│   └── resources.md
+│   ├── isc2-cc-notes.md
+│   ├── splunk-notes.md
+│   ├── tryhackme-walkthroughs.md
 │
 ├── automation-testing/
-│   ├── selenium.md
-│   ├── cypress.md
-│   ├── playwright.md
-│   └── resources.md
+│   ├── selenium-guide.md
+│   ├── cypress-guide.md
+│   ├── playwright-guide.md
 │
-├── resume-examples/
-│   ├── cybersecurity-resume-template.md
-│   └── qa-resume-template.md
+├── resume-boost/
+│   ├── cybersecurity-resume-tips.md
+│   ├── qa-resume-tips.md
 │
-└── contribution-guide.md
+└── projects/
+    ├── mini-siem-project/
+    ├── selenium-framework/
 ```
 
 ---
 
-# 🚀 Best Way to Use This Repo
+# 🌌 FINAL NOTE
 
-1. Complete at least 3 certifications.
-2. Upload certificates to LinkedIn.
-3. Add projects related to the certification.
-4. Mention tools used (SIEM, Selenium, Cypress, etc.)
-5. Showcase GitHub automation projects.
+This repository is built to:
 
----
+⚡ Impress recruiters  
+⚡ Showcase structured learning  
+⚡ Demonstrate discipline  
+⚡ Prove practical intent  
 
-# 🤝 Contribution
-
-Want to add:
-- A new free certification?
-- Limited-time free exam vouchers?
-- Expired link updates?
-
-Open an Issue or Pull Request.
+If this helped you — ⭐ the repository.
 
 ---
-
-# ⭐ Support
-
-If this repository helps you, consider giving it a ⭐  
-It motivates continuous updates and improvements.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243e,100:0f0c29&section=footer"/>
 </p>
