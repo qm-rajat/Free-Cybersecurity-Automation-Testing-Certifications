@@ -1,0 +1,2 @@
+# Free-Cybersecurity-Automation-Testing-Certifications
+Here’s a compiled list of free (or genuinely free-to-earn) certifications and certification-eligible courses focused on cybersecurity and automation testing. These options range from vendor training with free certificates to exam-based certifications you can complete without paying. Many are entry-level and great for building skills and a resume.
